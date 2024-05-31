@@ -5,6 +5,7 @@ Conducted a comprehensive analysis of Netflix Movies dataset to identify key tre
 Tools Used: Python, Pandas, Matplotlib, Seaborn, NumPy, Tablea
 
 Key Responsibilities:
+
 •	Data Collection and Cleaning: Imported the Netflix Movies dataset, handled missing values, and ensured data consistency for analysis.
 •	Exploratory Data Analysis (EDA): Utilized Python (Pandas, Matplotlib, Seaborn) to perform EDA, identifying patterns and trends in the data.
 o	Analyzed the number of movies contributed by each country.
