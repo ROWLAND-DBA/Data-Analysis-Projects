@@ -12,3 +12,16 @@ o	Identified TV shows with the highest counts.
 o	Developed dashboards to visualize country contributions, movie release trends, and TV ratings.
 o	Created charts and graphs to display insights on cast member distributions and top TV shows.
 •	Insights and Reporting: Compiled and presented key findings in a report, providing actionable insights for stakeholders.
+Key Achievements:
+•	Discovered that [Country X] had the highest contribution to the Netflix movie library.
+•	Identified a significant increase in movie releases in the year [Year].
+•	Highlighted [Country Y] as having the most cast members featured in Netflix movies.
+•	Determined that the TV rating [Rating] had the highest count in the dataset.
+•	Showcased the TV show [Show Name] as the most frequent in the dataset.
+Link to Visualizations: [[Insert Tableau Public link or attach screenshots](https://public.tableau.com/app/profile/rowland.fedebagha3164/viz/NETFLIXDATASET_16960257560340/Dashboard1?publish=yes)]
+Skills Demonstrated:
+•	Data Wrangling and Cleaning
+•	Exploratory Data Analysis
+•	Data Visualization
+•	Reporting and Communication
+•	Use of Python and Tableau for data analysis and visualization
