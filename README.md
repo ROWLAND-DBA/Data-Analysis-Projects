@@ -12,6 +12,7 @@ o	Investigated the distribution of movie releases by year.
 o	Assessed the number of cast members from different countries.
 o	Determined the TV ratings with the highest counts.
 o	Identified TV shows with the highest counts.
+
 •	Data Visualization: Created interactive and static visualizations using Tableau to present findings clearly and effectively.
 o	Developed dashboards to visualize country contributions, movie release trends, and TV ratings.
 o	Created charts and graphs to display insights on cast member distributions and top TV shows.
