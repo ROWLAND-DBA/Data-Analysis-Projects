@@ -30,7 +30,7 @@ o	Created charts and graphs to display insights on cast member distributions and
 
 6. Link to Visualizations:
 
-[[Insert Tableau Public link or attach screenshots](https://public.tableau.com/app/profile/rowland.fedebagha3164/viz/NETFLIXDATASET_16960257560340/Dashboard1?publish=yes)]
+[[netflix data analysis](https://public.tableau.com/app/profile/rowland.fedebagha3164/viz/NETFLIXDATASET_16960257560340/Dashboard1?publish=yes)]
 
 7. Skills Demonstrated:
 •	Data Wrangling and Cleaning
