@@ -14,10 +14,13 @@ o	Assessed the number of cast members from different countries.
 o	Determined the TV ratings with the highest counts.
 o	Identified TV shows with the highest counts.
 
-•	Data Visualization: Created interactive and static visualizations using Tableau to present findings clearly and effectively.
+•	Data Visualization: 
+
+Created interactive and static visualizations using Tableau to present findings clearly and effectively.
 o	Developed dashboards to visualize country contributions, movie release trends, and TV ratings.
 o	Created charts and graphs to display insights on cast member distributions and top TV shows.
 •	Insights and Reporting: Compiled and presented key findings in a report, providing actionable insights for stakeholders.
+
 Key Achievements:
 •	Discovered that [Country X] had the highest contribution to the Netflix movie library.
 •	Identified a significant increase in movie releases in the year [Year].
